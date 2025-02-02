@@ -6,3 +6,11 @@
 
 /* default layer count */
 #define DYNAMIC_KEYMAP_LAYER_COUNT 10
+
+#define USB_VBUS_PIN GP24
+
+#define DEBOUNCE 5
+#define TAPPING_TERM 185
+
+#define HOLD_ON_OTHER_KEY_PRESS
+
